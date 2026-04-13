@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "SUK1CH4N",
   "me": {
-    "id": "94756209082@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94756209082:76@s.whatsapp.net",
+    "name": "SRI BOT",
+    "lid": "197612032549107:76@lid"
+  },
+  "account": {
+    "details": "CIPIn6AFEP+68s4GGAUgACgA",
+    "accountSignatureKey": "JRoLvdm+9XiDHyeOK7awB+3mfoyFlwvMoYLcHKxLAzs=",
+    "accountSignature": "50YVVT+cNkyHVlL9RtHUvQJ16WewYguQED+817eKCZy4Osa4wXBhGOc3yseKhIA0XvyZbz93J4kpDMnKVjclBA==",
+    "deviceSignature": "1iph3Aqbf9ApiGPKAF224aGO7hy+kdFwKiJmhJ7QJaV5w6+I4zaHSwN8F+yNbKssxiQPrx+UhxfuPlz4X6z4gw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "197612032549107:76@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSUaC73ZvvV4gx8njiu2sAft5n6MhZcLzKGC3BysSwM7"
+      }
+    }
+  ],
+  "platform": "smba"
 }
