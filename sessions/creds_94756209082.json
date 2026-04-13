@@ -85,5 +85,6 @@
     "type": "Buffer",
     "data": "CAUIEggC"
   },
-  "lastAccountSyncTimestamp": 1776061220
+  "lastAccountSyncTimestamp": 1776061220,
+  "myAppStateKeyId": "AAAAAOFz"
 }
