@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 156,
-  "advSecretKey": "x7lcRpgv3lVhuc+qrTa8T2j1ggEbQYCxXN5UQBdfTFY=",
+  "advSecretKey": "Z+9NNXV9T17YUWQgo2dHbL+NB0RKXi0p4oqmLZ1EjDk=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -55,7 +55,7 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": false,
+  "registered": true,
   "pairingCode": "SUK1CH4N",
   "me": {
     "id": "94753670175@s.whatsapp.net",
