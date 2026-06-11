@@ -85,5 +85,6 @@
     "type": "Buffer",
     "data": "CAIIDQgI"
   },
-  "lastAccountSyncTimestamp": 1781193177
+  "lastAccountSyncTimestamp": 1781193177,
+  "lastPropHash": "smNQV"
 }
