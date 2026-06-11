@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 99,
-  "advSecretKey": "NDz37T+H//XVzccXdnLj6UCDZeuVFX43wl8/DDyutaM=",
+  "advSecretKey": "oc/nomco5tLFHqidST25OG5SqwPHFtgEUNB65Jt/+xM=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -55,7 +55,7 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": false,
+  "registered": true,
   "pairingCode": "LDCHP3VH",
   "me": {
     "id": "94756209082@s.whatsapp.net",
