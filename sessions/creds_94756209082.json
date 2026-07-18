@@ -100,8 +100,8 @@
       "messageTimestamp": 1781195902
     }
   ],
-  "nextPreKeyId": 4282,
-  "firstUnuploadedPreKeyId": 4282,
+  "nextPreKeyId": 4287,
+  "firstUnuploadedPreKeyId": 4287,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -134,7 +134,7 @@
   "platform": "smba",
   "routingInfo": {
     "type": "Buffer",
-    "data": "CAMIAggL"
+    "data": "CAIIDQgI"
   },
   "lastAccountSyncTimestamp": 1784161922,
   "lastPropHash": "2X3GM6",
