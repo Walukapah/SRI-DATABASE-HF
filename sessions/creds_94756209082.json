@@ -137,7 +137,7 @@
     "data": "CAIIDQgI"
   },
   "lastAccountSyncTimestamp": 1792702862,
-  "lastPropHash": "3iLf1f",
+  "lastPropHash": "2YnGZs",
   "myAppStateKeyId": "AAAAAGnE",
   "serverProps": {
     "212": "1",
@@ -1903,7 +1903,9 @@
     "39486": "1",
     "39742": "0",
     "39981": "1",
+    "40079": "0",
     "40234": "1",
-    "40374": "1"
+    "40374": "1",
+    "40535": "1"
   }
 }
