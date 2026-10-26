@@ -100,8 +100,8 @@
       "messageTimestamp": 1781195902
     }
   ],
-  "nextPreKeyId": 7837,
-  "firstUnuploadedPreKeyId": 7837,
+  "nextPreKeyId": 7842,
+  "firstUnuploadedPreKeyId": 7842,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -137,7 +137,7 @@
     "data": "CAIIDQgI"
   },
   "lastAccountSyncTimestamp": 1793023658,
-  "lastPropHash": "2YnGZs",
+  "lastPropHash": "ui97H",
   "myAppStateKeyId": "AAAAAGnE",
   "serverProps": {
     "212": "1",
@@ -1894,6 +1894,7 @@
     "38675": "1",
     "38903": "0",
     "39087": "0",
+    "39096": "1",
     "39113": "0",
     "39188": "0",
     "39206": "ww_relaxed_block_g1/control",
@@ -1901,8 +1902,13 @@
     "39376": "0",
     "39440": "0",
     "39486": "1",
+    "39641": "0",
     "39742": "0",
+    "39816": "0",
+    "39817": "0",
+    "39916": "0.0",
     "39981": "1",
+    "40030": "0.0",
     "40079": "0",
     "40234": "1",
     "40374": "1",
