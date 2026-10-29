@@ -100,8 +100,8 @@
       "messageTimestamp": 1781195902
     }
   ],
-  "nextPreKeyId": 7973,
-  "firstUnuploadedPreKeyId": 7973,
+  "nextPreKeyId": 7978,
+  "firstUnuploadedPreKeyId": 7978,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -137,7 +137,7 @@
     "data": "CAIIDQgI"
   },
   "lastAccountSyncTimestamp": 1793306368,
-  "lastPropHash": "2BfGNc",
+  "lastPropHash": "QWX8L",
   "myAppStateKeyId": "AAAAAGnF",
   "serverProps": {
     "212": "1",
@@ -695,6 +695,7 @@
     "7049": "1",
     "7054": "1",
     "7080": "1",
+    "7100": "{\"config_name\":\"waod_v1_borrowing_with_gap_rules_precheck\"}",
     "7108": "1",
     "7124": "1",
     "7131": "1",
@@ -706,6 +707,7 @@
     "7197": "1",
     "7234": "1",
     "7245": "1",
+    "7257": "0",
     "7279": "1",
     "7280": "1",
     "7281": "1",
@@ -957,6 +959,7 @@
     "11440": "1",
     "11449": "1",
     "11513": "1",
+    "11590": "1673914920915502",
     "11624": "1",
     "11627": "1",
     "11644": "1270784217226727",
@@ -1133,6 +1136,7 @@
     "16161": "1",
     "16193": "1",
     "16195": "1",
+    "16218": "{\"config_name\": \"prod\", \"should_invoke_v2_decision_maker\": true, \"should_return_v2_decision_maker_decision\": true}",
     "16253": "5",
     "16254": "720",
     "16274": "1",
