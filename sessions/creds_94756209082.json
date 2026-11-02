@@ -100,8 +100,8 @@
       "messageTimestamp": 1781195902
     }
   ],
-  "nextPreKeyId": 8029,
-  "firstUnuploadedPreKeyId": 8029,
+  "nextPreKeyId": 8034,
+  "firstUnuploadedPreKeyId": 8034,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -137,7 +137,7 @@
     "data": "CCMIDQgI"
   },
   "lastAccountSyncTimestamp": 1793654944,
-  "lastPropHash": "4fYfX9",
+  "lastPropHash": "3oxhcX",
   "myAppStateKeyId": "AAAAAGnF",
   "serverProps": {
     "212": "1",
@@ -1942,7 +1942,10 @@
     "40279": "1",
     "40374": "1",
     "40535": "1",
+    "40773": "1",
     "40774": "0.2",
-    "40941": "0"
+    "40941": "0",
+    "40947": "0",
+    "41175": "0"
   }
 }
