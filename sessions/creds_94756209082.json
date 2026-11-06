@@ -137,7 +137,7 @@
     "data": "CCMIDQgI"
   },
   "lastAccountSyncTimestamp": 1793930534,
-  "lastPropHash": "DquXz",
+  "lastPropHash": "1rWZrq",
   "myAppStateKeyId": "AAAAAGnF",
   "serverProps": {
     "212": "1",
@@ -1803,6 +1803,7 @@
     "33640": "1",
     "33642": "1",
     "33752": "1",
+    "33805": "0",
     "33818": "1",
     "33825": "0",
     "33852": "0",
