@@ -100,8 +100,8 @@
       "messageTimestamp": 1781195902
     }
   ],
-  "nextPreKeyId": 8359,
-  "firstUnuploadedPreKeyId": 8359,
+  "nextPreKeyId": 8364,
+  "firstUnuploadedPreKeyId": 8364,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -137,7 +137,7 @@
     "data": "CCMIDQgI"
   },
   "lastAccountSyncTimestamp": 1793930534,
-  "lastPropHash": "4C8R5M",
+  "lastPropHash": "4MrvdZ",
   "myAppStateKeyId": "AAAAAGnF",
   "serverProps": {
     "212": "1",
@@ -1701,6 +1701,7 @@
     "30270": "1",
     "30276": "1",
     "30344": "1",
+    "30350": "2",
     "30360": "1",
     "30454": "1",
     "30462": "1",
